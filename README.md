@@ -128,17 +128,20 @@
 ###
 
 <picture>
-  <source
-    srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/refs/heads/main/pacman-contribution-graph-dark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/refs/heads/main/pacman-contribution-graph.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/refs/heads/main/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 </div>
+
+
+
+
+
+
+
+
+
