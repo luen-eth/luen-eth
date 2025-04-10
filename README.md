@@ -87,17 +87,9 @@
 
 <br clear="both">
 
-<picture>
-  <source
-    srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/snake-dark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/snake.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+
   <img src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/snake.svg" alt="Snake animation" />
-</picture>
+
 
 ###
 
