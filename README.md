@@ -1,12 +1,33 @@
 <div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
 
-<h2 align="left" style="color: #c9d1d9;">Hi 👋! My name is Batuhan</h2>
+<h2 align="left">Hi 👋! My name is Batuhan</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buildwith0xmarcus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buildwith0xmarcus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=buildwith0xmarcus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=buildwith0xmarcus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=buildwith0xmarcus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=buildwith0xmarcus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=buildwith0xmarcus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buildwith0xmarcus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" />
+  </picture>
 </div>
 
 ###
@@ -66,21 +87,57 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/snake-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/snake.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m4v6qdg5o4epui7opnzdbpcbwa&unique={true|1|on|yes}" alt="Spotify recently played" />
+  <picture>
+    <source
+      srcset="https://spotify-recently-played-readme.vercel.app/api?user=31m4v6qdg5o4epui7opnzdbpcbwa&unique={true|1|on|yes}&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://spotify-recently-played-readme.vercel.app/api?user=31m4v6qdg5o4epui7opnzdbpcbwa&unique={true|1|on|yes}&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m4v6qdg5o4epui7opnzdbpcbwa&unique={true|1|on|yes}" alt="Spotify recently played" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/buildwith0xmarcus/count.svg?"  />
+  <picture>
+    <source
+      srcset="https://profile-counter.glitch.me/buildwith0xmarcus/count.svg"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://profile-counter.glitch.me/buildwith0xmarcus/count.svg" alt="Visitor counter" />
+  </picture>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/refs/heads/main/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/refs/heads/main/pacman-contribution-graph-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/refs/heads/main/pacman-contribution-graph.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/refs/heads/main/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
+</picture>
 
 ###
 
