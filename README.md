@@ -62,15 +62,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m4v6qdg5o4epui7opnzdbpcbwa&unique={true|1|on|yes}" alt="Spotify recently played" />
-</div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m4v6qdg5o4epui7opnzdbpcbwa&unique={true|1|on|yes}" alt="Spotify recently played" />
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/buildwith0xmarcus/count.svg?"  />
