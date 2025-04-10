@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Batuhan</h2>
+<div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
+
+<h2 align="left" style="color: #c9d1d9;">Hi 👋! My name is Batuhan</h2>
 
 ###
 
@@ -62,7 +64,6 @@
 
 ###
 
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/snake.svg" alt="Snake animation" />
@@ -81,9 +82,6 @@
 
 <img src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/refs/heads/main/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
 
-
 ###
 
-
-
-###
+</div>
