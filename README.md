@@ -92,7 +92,19 @@
 
 ###
 
-
+<div align="center">
+  <picture>
+    <source
+      srcset="https://spotify-recently-played-readme.vercel.app/api?user=31m4v6qdg5o4epui7opnzdbpcbwa&unique={true|1|on|yes}&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://spotify-recently-played-readme.vercel.app/api?user=31m4v6qdg5o4epui7opnzdbpcbwa&unique={true|1|on|yes}&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m4v6qdg5o4epui7opnzdbpcbwa&unique={true|1|on|yes}" alt="Spotify recently played" />
+  </picture>
+</div>
 
 <div align="center">
   <picture>
