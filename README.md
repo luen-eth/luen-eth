@@ -6,26 +6,26 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=buildwith0xmarcus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"
+      srcset="https://github-readme-stats.vercel.app/api?username=luen-eth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=buildwith0xmarcus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false"
+      srcset="https://github-readme-stats.vercel.app/api?username=luen-eth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=buildwith0xmarcus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=luen-eth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   </picture>
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=buildwith0xmarcus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=luen-eth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=buildwith0xmarcus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=luen-eth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buildwith0xmarcus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luen-eth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" />
   </picture>
 </div>
 
@@ -77,7 +77,7 @@
   <a href="https://www.linkedin.com/in/batuhan-%C5%9Fen-84bb90359/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:buildwith0xmarcus@proton.me" target="_blank">
+  <a href="mailto:luen-eth@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -87,7 +87,7 @@
 <br clear="both">
 
 
-  <img src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/luen-eth/luen-eth/output/snake.svg" alt="Snake animation" />
 
 
 ###
@@ -109,19 +109,19 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://profile-counter.glitch.me/buildwith0xmarcus/count.svg"
+      srcset="https://profile-counter.glitch.me/luen-eth/count.svg"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://profile-counter.glitch.me/buildwith0xmarcus/count.svg" alt="Visitor counter" />
+    <img src="https://profile-counter.glitch.me/luen-eth/count.svg" alt="Visitor counter" />
   </picture>
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/buildwith0xmarcus/buildwith0xmarcus/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luen-eth/luen-eth/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luen-eth/luen-eth/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luen-eth/luen-eth/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
